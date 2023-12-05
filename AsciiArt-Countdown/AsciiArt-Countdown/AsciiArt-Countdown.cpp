@@ -27,7 +27,7 @@ int main() {
         randColor();
         extrapolate(n - i);
     }
-    
+
     asciiNewYear();
     return 0;
 }
@@ -96,7 +96,7 @@ void asciiNewYear() {
                                   ';;;'
     )";
         Sleep(1000);
-	    system("cls");
+        system("cls");
         resetColor();
     }
 }
