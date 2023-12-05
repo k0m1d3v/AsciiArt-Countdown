@@ -97,6 +97,7 @@ void asciiNewYear() {
     )";
         Sleep(1000);
 	    system("cls");
+        resetColor();
     }
 }
 
